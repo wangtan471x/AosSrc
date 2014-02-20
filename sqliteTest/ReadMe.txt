@@ -27,3 +27,11 @@ StdAfx.h, StdAfx.cpp
 应用程序向导使用“TODO:”注释来指示应添加或自定义的源代码部分。
 
 /////////////////////////////////////////////////////////////////////////////
+adfafrqwerqwerqwerqwerqwer
+d
+asdf
+afda
+sdf
+as
+df
+a
